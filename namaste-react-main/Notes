@@ -1,0 +1,14 @@
+#props
+1) props are properties. Its just normal argument o the function.
+2) when you pass dynamically pass data to the component, you can pass through a props.
+
+#Config Driven UI
+to change a specific part of UI
+
+#Optional chaiing
+data? true:false
+
+#key in react
+1) key is special attribute in react used when we rendering array of elements.
+2) if we use key then rendering time it only render uinquely identify records not all component.
+3) In react key is used to identify which element should be added, deleted, updated or removed.
